@@ -1,15 +1,15 @@
 # CityHack22 Project Submission
-## Project: < Your CityHack22 Project Name >
+## Project: Spat!ial
 <img src="../assets/img/LOGOS/logo1.png" width="200" alt="project_logo"/>
 
 < Replace the logo above with Your Project Logo >
-## Team: < Your Team Name >
+## Team: Driven By Data
 ## Members
-- < Team Member 1 > (Leader)
-- < Team Member 2 >
-- < Team Member 3 >
-- < Team Member 4 >
-- < Team Member 5 >
+- Ishaank Chopra (Leader)
+- Nobel Jaison
+- Tanush Changani
+- Arnav Kithania
+- Eklavya Agarwal
 
 ## Description of the Project (300 words)
 
