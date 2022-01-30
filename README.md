@@ -1,6 +1,6 @@
 # CityHack22 Project Submission
 ## Project: Spat!ial
-<img src="../assets/img/LOGOS/logo1.png" width="200" alt="project_logo"/>
+<img src="https://github.com/IshaankChopra/CityHack22/blob/main/Screenshot_2022-01-29_at_4.49.36_PM-removebg-preview.png" width="200" alt="project_logo"/>
 
 < Replace the logo above with Your Project Logo >
 ## Team: Driven By Data
