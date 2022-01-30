@@ -1,5 +1,6 @@
-
-
+setTimeout(
+  function() 
+  {
 $(document).ready(function(){
 
     var len = $(document.getElementsByTagName('audio')).length;
@@ -57,5 +58,6 @@ $(document).ready(function(){
         }
     }
 });
+}, 1000);
     
 
