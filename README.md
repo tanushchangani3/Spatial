@@ -24,4 +24,4 @@
 4. < Tech >
 
 ## Link
-- < 3 minute Youtube Video Link for Project Demo >
+- https://youtu.be/pj4ovn123BQ
