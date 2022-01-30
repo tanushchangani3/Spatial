@@ -1,6 +1,6 @@
 # CityHack22 Project Submission
 ## Project: Spat!ial
-<img src="https://github.com/IshaankChopra/CityHack22/blob/main/Screenshot_2022-01-29_at_4.49.36_PM-removebg-preview.png" width="400" alt="project_logo"/>
+<img src="https://github.com/IshaankChopra/CityHack22/blob/main/Screenshot_2022-01-29_at_4.49.36_PM-removebg-preview.png" width="600" alt="project_logo"/>
 
 ## Team: Driven By Data
 ## Members
@@ -16,10 +16,10 @@ As COVID-19 continues to become a greater problem, the need for online school ha
 
 ## 3 Most Impactful Features of the Project (with Screenshot and Short Description (150 words))
 1. The eye-tracker tracks if the eyes of the student is on or off the screen and its duration of how long they’re eyes are on the screen. If the student looks away the tracker acknowledges this and contributes it to the overall attention span score of the class.
-<img src="https://github.com/IshaankChopra/CityHack22/blob/main/WhatsApp%20Image%202022-01-30%20at%201.28.57%20PM.jpeg"/>
+<img src="https://github.com/IshaankChopra/CityHack22/blob/main/WhatsApp%20Image%202022-01-30%20at%201.28.57%20PM.jpeg" width="400"/>
 
 2. The spatial audio in the app allows users to experience the classroom feeling from anywhere. This means that it provides instructors with the ability to create a real classroom environment. Furthermore, it allows students to be more involved in the classroom activities.  
-<img src="https://github.com/IshaankChopra/CityHack22/blob/main/WhatsApp%20Image%202022-01-30%20at%201.29.09%20PM.jpeg"/>
+<img src="https://github.com/IshaankChopra/CityHack22/blob/main/WhatsApp%20Image%202022-01-30%20at%201.29.09%20PM.jpeg" width="400"/>
 
 4. Provides instructors and students with health benefits as they can monitor the time spent on screens by students. This information can be used to tailor make classes to implement offline activites to reduce strain on the eyes.
 
