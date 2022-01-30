@@ -1,0 +1,72 @@
+body {
+    background:rgb(0, 32, 32);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wrapper {
+    width: 100%;
+}
+.wrapper div {
+    position: absolute;
+    z-index: 9;
+    width:50px;
+    border-radius: 30px;
+    height:50px;
+    overflow: hidden; 
+    cursor: move;
+}
+.wrapper div audio {
+    height: 25px;
+}
+
+audio::-webkit-media-controls-mute-button,
+audio::-webkit-media-controls-timeline-container,
+audio::-webkit-media-controls-current-time-display,
+audio::-webkit-media-controls-time-remaining-display,
+audio::-webkit-media-controls-timeline,
+audio::-webkit-media-controls-volume-slider-container,
+audio::-webkit-media-controls-volume-slider,
+audio::-webkit-media-controls-seek-back-button,
+audio::-webkit-media-controls-seek-forward-button,
+audio::-webkit-media-controls-fullscreen-button,
+audio::-webkit-media-controls-rewind-button,
+audio::-webkit-media-controls-return-to-realtime-button,
+audio::-webkit-media-controls-toggle-closed-captions-button {
+    display: none;
+}
+
+#listener {
+    position: absolute;
+    background: black;
+    border: 5px solid white;
+    box-sizing: border-box;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left:150px;
+}
+#D1 {
+    background:rgb(63, 255, 46);
+    top:100px;
+}
+#D2 {
+    background: rgb(204, 0, 255);
+}
+#D3 {
+    background: rgb(255, 35, 127);
+    left:150px;
+    top:100px;
+}
+#D4 {
+    background: orange;
+    left:300px;
+    top:100px;
+}
+#D5{
+    background:cyan;
+    left:300px;
+}
