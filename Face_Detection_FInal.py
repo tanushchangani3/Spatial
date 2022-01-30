@@ -46,7 +46,8 @@ while True:
                       (x+w, y+h),
                       (255, 0, 0),
                        2)
-        
+                       
+        e = datetime.datetime.now()
         Time = "%s:%s:%s" % (e.hour, e.minute, e.second)
         Detection = [Time, "Detected"]
         writer.writerow(Detection)
