@@ -4,11 +4,11 @@
 
 ## Team: Driven By Data
 ## Members
-- Ishaank Chopra (Leader)
+- Ishaank Chopra
 - Nobel Jaison
 - Tanush Changani
 - Arnav Kithania
-- Eklavya Agarwal
+- Kanav Mehta
 
 ## Description of the Project (300 words)
 
