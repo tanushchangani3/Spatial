@@ -16,7 +16,7 @@ As COVID-19 continues to become a greater problem, the need for online school ha
 
 ## 3 Most Impactful Features of the Project (with Screenshot and Short Description (150 words))
 1. The face-tracker tracks if the face of the student is on or off the screen and its duration of how long they are on-screen. If the student looks away the tracker acknowledges this and contributes it to the overall attention span score of the class.
-<img src="https://github.com/IshaankChopra/CityHack22/blob/main/WhatsApp%20Image%202022-01-30%20at%201.28.57%20PM.jpeg" width="400"/>
+<img src="https://github.com/IshaankChopra/CityHack22/blob/main/Screenshot%202023-02-08%20at%209.48.17%20PM.png" width="400"/>
 
 2. The spatial audio in the app allows users to experience the classroom feeling from anywhere. This means that it provides instructors with the ability to create a real classroom environment. Furthermore, it allows students to be more involved in the classroom activities.  
 <img src="https://github.com/IshaankChopra/CityHack22/blob/main/WhatsApp%20Image%202022-01-30%20at%201.29.09%20PM.jpeg" width="400"/>
