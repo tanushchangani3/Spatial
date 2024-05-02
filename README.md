@@ -28,7 +28,6 @@ As COVID-19 continues to become a greater problem, the need for online school ha
 4. Record linkage
 
 ## Link
-- Presentation slides: https://bit.ly/3FSNn54
 - Presentation video: https://youtu.be/pj4ovn123BQ
 - Spatializer Demonstration: https://ishaankchopra.github.io/CityHack22/ --> This webpage is just for demonstrating the spatializer arrangment.
 - Interface Demonstration: https://spatialaudioo.000webhostapp.com/ --> This webpage is just for visualizing, actual features like Eye Detection and Spatial Audio will be added later in the post-development phase
