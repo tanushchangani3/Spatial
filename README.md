@@ -1,7 +1,6 @@
 ## Spat!ial
 <img src="https://github.com/IshaankChopra/CityHack22/blob/main/Screenshot_2022-01-29_at_4.49.36_PM-removebg-preview.png" width="600" alt="project_logo"/>
 
-## Team: Driven By Data
 ## Members
 - Ishaank Chopra
 - Nobel Jaison
